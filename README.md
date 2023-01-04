@@ -9,7 +9,7 @@ This test system has been developed by:
     Benjamin F. Hobbs, Johns Hopkins University
     Yankai Cao, University of British Columbia
     
-## Citing Global-TEP
+## Citing ACTEP 1354-bus Test System
 If you find ACTEP 1354-bus Test System useful for your work, you might cite the manuscript:
 
     @articlemehrtash2022,
