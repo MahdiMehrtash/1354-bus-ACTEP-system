@@ -20,7 +20,7 @@ If you find ACTEP 1354-bus Test System useful for your work, you might cite the 
     month="March",
     day="1",
     doi="10.1109/TPEC54980.2022.9750848",
-    url="[https://ieeexplore.ieee.org/document/9445630](https://ieeexplore.ieee.org/abstract/document/9750848)"
+    url="https://ieeexplore.ieee.org/abstract/document/9750848"
     }
 
 ## Features
